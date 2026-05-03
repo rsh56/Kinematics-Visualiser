@@ -1,0 +1,1 @@
+3D kinematics visualiser tool, for use within python. Shows path and vector projections of a particles with zxy start postions and velocities to edit, along with drag and gravity values that can be edited 
